@@ -1,3 +1,3 @@
 # osint tool in container
 
-Collection of tool I used daily in a container. 
+Collection of tools I  use daily in a container. 
